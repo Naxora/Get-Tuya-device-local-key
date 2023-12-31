@@ -1,6 +1,6 @@
 # Get Tuya Local Key
 
-Follow [Home Assistant Tuya Docs](https://www.home-assistant.io/integrations/tuya/)
+Follow [Home Assistant Tuya](https://www.home-assistant.io/integrations/tuya/) docs
 
 After account is created and device is added you need the `Device ID` to get the `local_key`
 
